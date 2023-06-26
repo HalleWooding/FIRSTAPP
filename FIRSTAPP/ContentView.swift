@@ -186,6 +186,7 @@ struct ContentView: View {
                 
                 Text("New York (2023)")
                     .font(.system(.title2, design: .serif))
+                Text ("info")
                 
             }
         }
